@@ -1,0 +1,159 @@
+/* Cecilia CSS */
+
+/******************** MOBILE FIRST ********************/
+/* GENERAL + FONT */
+
+a, a:visited {
+    color: #4A4A4A;
+}
+
+a:hover {
+    color: #42ac75;
+}
+    
+/*font-family: 'Lora', sans-serif;*/
+body {
+    font-family: 'Lora-Regular', serif;
+    font-size: 18px;
+    line-height: 29px;
+    letter-spacing: 0px;
+    color: #4A4A4A;
+    background-color: #E5E5E5;
+    height: 100%;
+    text-align: left;
+}
+
+
+/* bodytext Highlight: */
+h4 {
+	font-family: 'Lora-Bold', serif;
+	font-size: 18px;
+	color: #4A4A4A;
+	line-height: 29px;
+}
+
+/* bodytext Welcome: */
+h4 {
+	font-family: 'Lora-Regular', serif;
+	font-size: 30px;
+	color: #4A4A4A;
+	line-height: 41px;
+}
+
+/* parapgraph line spacing for welcome chapter */
+p.big
+{line-height: 20px;}
+
+/* bodytext Welcome Highlight: */
+
+h3 {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: normal;
+    margin: 20px 0px;
+    letter-spacing: 2px;
+}
+
+h5 {
+	font-family: 'Lora-Bold', serif;
+	font-size: 30px;
+	color: #4A4A4A;
+	line-height: 41px;
+}
+
+p.caption 
+{
+	font-family: 'Lora-Italic'; serif;
+	font-size: 15px;
+	color: #4A4A4A;
+	line-height: 29px;
+    margin: 5px 0;
+}
+
+#mediaData p.caption {
+    border-left: 5px solid #FCCA06;
+}
+
+h1 {
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: normal;
+    margin: 20px 0px;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+/******************** BIGGER SCREENS THEN ********************/
+
+/* Drop Down Chapter Menu */
+#chapter-menu {
+    font-family: 'Lato', sans-serif;
+    float: left;
+    width: 200px;
+    list-style: none outside none;
+    margin:0;
+    padding:0;
+}
+
+
+#chapter-menu li:hover {
+    background:#E5E5E5;
+}
+
+#chapter-menu li a:hover {
+    color:#4a4a4a;
+
+}
+
+#chapter-menu ul li {
+/*    width:auto;*/
+    float:left;
+    margin:0px 0 0;
+}
+
+/* LHS MEDIA UPDATE LINKS */
+span.update-lhs-link {
+    background-color: #F8EEC8;
+    border-left: 4px solid #FCCA06;
+    padding: 0 0 0 2px;
+}
+
+span.update-lhs-link:hover {
+    background-color: #FFFF99;
+    cursor: pointer;
+}
+
+/* INSERT REFERENCE LINKS */
+span.insert-ref-link {
+    background-color: #BBF5D7;
+    border-left: 4px solid #42ac75;
+    padding: 0 0 0 2px;
+}
+
+span.insert-ref-link:hover {
+    background-color: #68F9AE;
+    cursor: pointer;
+}
+
+/* LHS TEXT AREA */
+#lhs-html-container {
+    padding-left: 20px
+}
+
+/* CHAPTER NAVIGATOION */
+#chapter-navigation-lhs {
+    padding: 10px 5px 5px 5px;
+}
+
+#chapter-title h2 {
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: normal;
+    margin: 20px 0px 20px 35px;
+    letter-spacing: 3px;
+    text-align: left;
+}
+
+#nav-share {
+    background-position: 10px 15px;
+}

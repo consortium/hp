@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<collection>
+	<head>
+	    <title>Archive Collection XML Structure</title>
+	</head>
+	<body>
+			<collectionTitle>Proud to be Flesh</collectionTitle>
+
+			<!-- TITLE PAGE AND ABSTRACT -->
+
+			<chapter chapterNumber="1">
+				<chapterTitle><h3>Title Page/Intro</h3></chapterTitle>
+				<shortChapterTitle><h3>Title Page</h3></shortChapterTitle>
+
+				<mediaItem>
+					<mediaData>
+						<iframe src="images/tiles/0001/openlayers.html" frameborder="0"></iframe>
+						<p class="caption">Cover image</p>
+					</mediaData>
+					<mediaMetadata status="true">metadata-html/0001.html</mediaMetadata>
+				</mediaItem>
+
+				<lhsColumn>
+					<h3>H3 Header</h3>
+					<p>Text, <a href="https://metamute.org/" target="_blank">Mute</a>.</p>
+					<p>Para 2.</p>
+					<p>
+					<i>Para italic</i>
+				</p>
+				<p>
+					<img src="images/Mute_sml.jpg" style="width:180px;"></img>
+					</p>
+
+				</lhsColumn>
+			</chapter>
+
+			<!-- TABLE OF CONTENTS -->
+			<chapter chapterNumber="2">
+				<chapterTitle><h3>Table of Contents</h3></chapterTitle>
+				<shortChapterTitle><h3>Contents</h3></shortChapterTitle>
+
+				<mediaItem>
+					<mediaData>
+						<iframe src="images/tiles/0001/openlayers.html" frameborder="0"></iframe>
+						<p class="caption">Cover image</p>
+					</mediaData>
+					<mediaMetadata status="true">metadata-html/0001.html</mediaMetadata>
+				</mediaItem>
+
+				<lhsColumn >
+						<!-- <h3>Table of Contents</h3> -->
+					<p><a href="#" class="toc" data-chapter-id="1">Title Page/Intro</a></p>
+
+					<p><a href="#" class="toc" data-chapter-id="3">Section 1</a></p>
+
+					<p><a href="#" class="toc" data-chapter-id="4">Section 2</a></p>
+
+					<p><a href="#" class="toc" data-chapter-id="5">Section 3</a></p>
+
+					<p><a href="#" class="toc" data-chapter-id="6">Section 4</a></p>
+
+					<p><a href="#" class="toc" data-chapter-id="7">Figures</a></p>
+
+					<p><a href="#" class="toc" data-chapter-id="8">References</a></p>
+
+					<p><a href="#" class="toc" data-chapter-id="9">Colophon</a></p>
+				</lhsColumn>
+				</chapter>
+
+			<chapter chapterNumber="3">
+				<chapterTitle><h3>Disgruntled Addicts – Mute Magazine and its History</h3></chapterTitle>
+				<shortChapterTitle><h3>Disgruntled Addicts</h3></shortChapterTitle>
+
+									<mediaItem>
+										<mediaData>
+											<iframe src="images/tiles/0001/openlayers.html" frameborder="0"></iframe>
+											<p class="caption">Cover image</p>
+										</mediaData>
+										<mediaMetadata status="true">metadata-html/0001.html</mediaMetadata>
+									</mediaItem>
+
+				<lhsColumn>
+					<p>Disgruntled Addicts – Mute Magazine and its History</p>
+
+					<p>Josephine Berry Slater</p>
+
+					<p class="active"><em>Mute</em> magazine was born, somewhere between art school anomie and the thrill of the World Wide Web’s appearance, in 1994. Looking back at the magazine’s history on its 15th birthday, its most constant feature seems to be its wilful eclecticism and ceaseless criticality – something which, over the years, has got it into all kinds of trouble commercially, politically and with its varied readership. This concerted battle against the dominant logic of specialisation or static identity is perhaps the trace element of its founders’ art school backgrounds at the Slade and Central Saint Martins.</p>
+
+					<p>Simon Worthington and Pauline van Mourik Broekman knew practically nothing about publishing or journalism when they set out to make <em>Mute</em>. But, as artists working in the post-conceptual era in which the requirement to master a medium was lessening, they were primed and ready for practically anything. Inspired by the broader cultural experimentation at play (from DIY culture, to nomadic ‘briefcase art’, to the techno-aesthetics of magazines as varied as <em>Mediamatic, Underground and Mondo </em>2000), they were looking for ways to break out of the conformist pseudo-activity of gallery and institutional art. Nevertheless, the desire to explore and analyse contemporary life in all its complexity – which could involve maintaining several conflicting ideas about something simultaneously, often resulting in a position of both criticism and support – could be seen as an overwhelmingly artistic approach that remains with <em>Mute</em> to this day. This refusal to unconditionally embrace a genre, discipline or political position is not only at odds with the niched requirements of the market, but also often with political and artistic tribes.</p>
+
+					<p><em>Mute’s</em> stance of engaged criticality also seems to have characterised Pauline’s attitude to art in the early-’90s. As she tells it, she was a ‘disgruntled addict’ of art, sickened by the UK art world’s Thatcherite values in an era in the thrall of artists like Damien Hirst, but avidly following it nonetheless, scouring the scene for signs of activity at odds with the circus. Perhaps less preoccupied with the art world’s schizophrenic attempts to retain critical legitimacy in its phase of high commercialism, Simon was drawn to the greener pastures of the datasphere. Soon, both began to see the web as offering the possibility to do things otherwise, to elude the stultifying structures of official culture while at the same time acting on a global stage. This techno-social revolution in the individual’s ability to publish and access unfiltered information – to communicate globally without the mediating presence of elite gatekeepers – seemed to be having little impact on an art world obsessed with itself, its new found mass media appeal and Tracey Emin’s dirty laundry. Accordingly, Pauline and Simon identified a new editorial genre: ‘Digital Art Critique’.</p>
+
+					<p>From a small flat in West London, the by now paradigmatic ‘home office’ they shared, a marvellously hybrid bird of publishing paradise emerged. The first eight issues of <em>Mute</em> appeared somewhat quarterly, in broadsheet format and on salmon pink paper. Printed on the <em>Financial Times’</em> own press, they spliced the austere conventions of 18th century newsprint typography with vector-based computer graphics, wacky fonts and articles on digital art and post-humanism. This retro-futurist gesture of covering the ‘information superhighway’ and its cultures on now historical newsprint was an unexpectedly popular bit of hype deflation. <em>Mute’s</em> ‘Proud to be Flesh’ slogan fired another salvo at the Cartesian/Gibsonian fantasy of ‘jacking into’ cyberspace and leaving the ‘meat’ behind. The spectres of pink paper and flesh were wielded against the rising crescendo of cybermania which would climax in the dotcom bubble of the late-’90s.</p>
+
+					<p>Beneath the playfulness, <em>Mute</em> was advancing trenchant critiques of what these dreams of disembodiment and immateriality belied. Richard Barbrook and Andy Cameron’s text, ‘The Californian Ideology’, made an important contribution to this endeavour, exposing the neoliberalism and neo-Darwinism which lay behind <em>Wired</em> magazine-style celebrations of cyberspace and ‘bottom up’ phenomena. The image by CORP on Vol 1 #5’s cover proclaimed the words ‘Arbeit Macht Frei’ over a graphic of glass and steel office blocks and three flying computer keys – a reference to the expansion of work into daily life that digital technologies enable. Many years later, our ‘Underneath the Knowledge Commons’ issue, which carried a picture of a merry-go-round driven by flesh-and-blood work horses buried underneath it, would riff on a related theme – while elites experience the fruits of networked communication, the majority encounter an intensification of labour as managerial controls tighten and the ease of capital flight forces threatened workers to graft harder for less.</p>
+
+					<p>Focusing on the unsung, exploitative effects of new technologies, <em>Mute</em> has also consistently examined the unintended fallout from capitalism’s constant development of the forces of production – and by this I mean something more than the tendency for the rate of profit to fall. The internet, of course, is a tremendous case in point. Information piracy, peer-to-peer file sharing, ‘plunderphonics’ and plagiarism are all ways in which capitalism’s ability to create scarcity and control the commodity has been damaged by the net – that great, universal copying machine. <em>Mute’s</em> focus was increasingly the cultural practitioners and political activists – net artists and ‘hacktivists’ – who ‘misused’ the online environment to thwart attempts to own and control information and, hence, social knowledge and experience.</p>
+
+					<p>In 1997, some of <em>Mute’s</em> expanded editorial board – which by then included Hari Kunzru, Suhail Malik, James Flint, Jamie King and myself – took part in a presentation and workshop series at Documenta X called HybridWorkspace. This workspace, together with a net art installation elsewhere in the exhibition, were the first ever online and net art inclusions in a blue-chip, blockbuster art event. However, after the show was over, the organisers closed the Documenta site and saved the data onto discs which they then attempted to sell. But, participating net artist Vuk C´osic´ć had foreseen this and taken the precaution of saving the entire site to another address [www.ljudmila.org/~vuk/dx], making it publicly available as soon as the official site had closed. The ability of this new generation of web users to outwit the lumbering and proprietorial procedures of institutions and companies using digital tools created a window of opportunity and hope. The feeling that capitalism was a step behind its own state of the art technology created a rush of enthusiasm for alternative and anti-capitalist agendas.</p>
+
+					<p>To some degree, <em>Mute</em> attempted to manoeuvre itself within the commercial landscape of magazine publishing with comparable pragmatism and tactics. In 1997, we took the decision to come out as a quarterly glossy magazine, to situate ourselves on the news shelf (categorised, for want of any more suitable section, as ‘men’s lifestyle’), and to punt for some big advertising. From today’s perspective, it seems astonishing that we should have ever persuaded Silk Cut to pay for a double page, full colour ad in Vol 1 #8, our first glossy. It also seems astonishing that, at that tender age, we had faith in the prospect that <em>Mute</em> could garner enough popular appeal to become part of a mainstream media diet. Surrounded by a deluge of new lifestyle titles (<em>Dazed &amp; Confused, Adbusters, Wired UK)</em>, it felt like <em>Mute</em> might ride in their slipstream, buoyed by the growing enthusiasm for digital culture and our savvy, sassy approach. This strategy would also prevent us from becoming a service journal to the new media art scene, and open the door to taking a broader view on how technology affects all of life, not just certain discrete areas.</p>
+
+					<p>However, this desire to hack the commercial stratum of publishing did nothing to quell the disgruntlement and intellectual ambition of the magazine. Pauline’s editorial in Vol 1 #8 marked us out from the dotcom cheerleaders, by commenting on the ‘epitaphs’ already being laid at the ‘grave of the digital revolution’. The same issue also carried a meaty section on the maturing discourse of cyberfeminism, included a rave-inspired fashion shoot, my article on outsider art, bearing the title ‘How a Logic Logiced the System’, and Matthew Fuller’s piece on agent technology with sub-headings like ‘Backzoom: From Self-absorbed to Self-dissolved’. Hardly mainstream fare then.</p>
+
+					<p>By the eve of the millennium, our predictions and dreams of two years earlier were proven to have been misplaced in both cases. The Silk Cut ads had tailed off sharply; but, on the other hand, the ‘digital revolution’ was converging with street activism to dramatic effect. While, for many, the November 1999 demonstration against the WTO in Seattle marks the consolidation of the ‘anti-globalisation’ movement, the Carnival Against Capitalism in the City of London the previous June marked its spectacular beginning, at least for <em>Mute’s</em> editors. At that time, our office was located in Shoreditch, a few minutes’ walk from the demo’s meeting point in Liverpool St. Station and I think it’s fair to say that the infamous ‘starburst’ of activists from multiple station exits, heading for the financial district beyond, is a force that propelled our editorial in a new direction, and one that increasingly came to dominate the focus of the magazine.</p>
+
+					<p>J18, N30, Genoa, 9/11; the arc of events is part of contemporary folklore. The ‘movement of movements’ shared many of the same organisational forms and techniques as the companies being restructured to suit the needs of capital and post-Fordist, managerial thinking. Flat networks, hollow organisations, alliances – capitalism and anti-capitalism were mirroring each other, as solid companies and once-unified political parties dematerialised into flexible, virtual and dynamic structures. ‘We are everywhere’ became a popular slogan for anti-capitalist groups and the title of a book dedicated to the rise of the movement edited by the Notes from Nowhere collective. Suddenly, thanks to computer networks, people could be effectively summoned from everywhere and nowhere to protest against equally diffuse elites who were dictating the terms of globalisation. Dumping the hierarchies, ideological clarity and arduous organisational means of traditional activism, large numbers of people were energised into taking part in politics on a global stage. Networks and mobility were the means, and direct action the result. But 9/11 changed all that. The declaration ‘we are everywhere’ was inverted into ‘you (terrorists) are everywhere’ and used to justify an open-ended War on Terror and on political activists.</p>
+
+					<p>As Jamie King asked, in his 2002 article ‘Terror is the Network – and the Network is You’ (Vol 1 #23), ‘what happens when the “network of terror” meets the “network society”?’ One answer is that this collision of networks intensifies states’ control and surveillance of their populations, counteracting many of the progressive applications of those same technologies in the name of security. The superficial parallels between Al-Qa’ida and anti-globalisation activists’ organisational means, not to mention their opposition to capitalism, played all too well into the hands of conservative and repressive state agendas. Jamie reports a headline from the <em>New York Daily News</em>, during the build up to scheduled protests against the World Economic Forum in the Big Apple, which declared: ‘New Yorkers will not be terrorised. We already know what that’s like. Chant your slogans. Carry your banners. Wear your gas masks. Just don’t test our patience. Because we no longer have any.’</p>
+
+					<p>Although the wars in Afghanistan and Iraq gradually dispelled this American mood of ‘righteous’ indignation, the mainstream’s post-9/11 sidelining of, and intolerance towards, summit activism seemed to deflate the confidence of the movement. The internal breakdown of its own fragile alliances, as many of its organising groups were accused of merely ‘summit hopping’, also contributed to the loss of momentum. Despite attempts to counter accusations of following the agendas of neoliberal elites by organising a series of alternative World and European Social Forums, once the focus had shifted away from the consensual target of free trade agreements and ‘damaging globalisation’ the alliances began to break down. <em>Mute’s</em> coverage of the 2004 World Social Forum in Mumbai and the European Social Forum in London was largely taken up with reports of infighting, exclusions and political censorship. Counter-counter summits began to proliferate and the Peoples’ Global Action network was besieged by accusations of Eurocentrism, racism and sexism. Were these anti-globos nothing more than First World ‘struggle tourists’ holidaying in other people’s misery?</p>
+
+					<p>At the same time as our writers were considering the social composition of the anti-globalisation movement, its structures and methodologies had also started to come under scrutiny. Activists’ constant foregrounding of the technical and organisational forms of collaboration seemed, after a certain point, to hide an absence of political debate and the emergence of crypto-hierarchies and geographical centres. <em>Mute</em> ran several pieces – by Jamie King, Anthony Davies and Eileen Condon – exposing the fallibility of this formalist tendency amongst alliance-political groups and reminding readers that we’d been here before in the 1960s and ’70s. Jamie referenced Jo Freeman’s 1970 text, ‘The Tyranny of Structurelessness’, which had pointed to the tendency for cliques to emerge within the same radical feminist groups that had overtly rejected the patriarchal structures of leadership and hierarchy, whilst covertly or unconsciously repeating their inequalities. </p>
+
+					<p>Since the sacred cows had started toppling, why stop there when so many others could do with a good prodding? The Creative Commons, locative media, social networking or Web 2.0 – the default piety that surrounded these apparently social initiatives beggared belief. What they all ostensibly had in common was literally the common, and a way of organising its production, or protection, using new technologies. What was suspicious was the level of commercial and governmental support they received; ‘movements’ that were notionally about devolving power away from states and capital were getting hooked back into them while claiming ideological purity. The Creative Commons licence, wrote Gregor Claude in his 2002 article ‘Goatherds in Pinstripes’, was not an anti-property initiative but a market-orientated attempt to distribute intellectual property rights amongst small scale producers; an anti-monopolist move aimed at developing a more dynamic and inventive marketplace. In the media art world and funders’ rush to embrace locative media, Armin Medosch and Saul Albert both detected a market-driven agenda, as hand-held devices and wireless networking became the cutting edge of the technological commodities market. Social networking sites or Web 2.0, argued Dmytri Kleiner, may have encouraged more people onto the net, but they drastically centralised the ‘means of sharing’. Web 2.0 effectively commercialised the developments of the free software movement and peer-to-peer file sharing, imposing a homogenised format on social communication and monetising its ‘long tail’.</p>
+
+					<p><em>Mute’s</em> writers and editors were certainly alert to the infinitely cunning ways in which people’s communicative capacities and desires were subsumed into capitalist relations thanks, in part, to ICT. The politics of this subsumption had come to the fore with the publication of Hardt and Negri’s <em>Empire</em> in 2000 – a book which argued that ‘immaterial’ workers comprised a new revolutionary class as a result of capital’s dependence on their affective and intellectual labour. In this respect, immaterial producers could be said to ‘own’ the means of production, giving them a new autonomy. While critiquing the politics developing around immaterial production and the precarious conditions of its workers, <em>Mute</em> nevertheless shifted its publishing activities increasingly towards the immaterial realm. Having moved through a sequence of print formats and frequencies of publication we were, between 2002 and 2004, producing a thick, biannual coffee table edition. At this pinnacle of print luxuriousness, the high cost and labour involved in making the magazine were starting to take their toll. It was time to ‘jack’ our meat, and content, further into the web. We decided to go fully hybrid.</p>
+
+					<p>With Pauline and me going on uncannily parallel maternity leaves for the first half of 2005, this seemed as good a time as any to have a publishing holiday and completely overhaul the Metamute.org website. Simon and Raquel Perez de Eulate set to work designing and building a new site in Drupal – a free software, the bugginess of which has since earned it the reputation of a badly behaved household pet. Benedict Seymour and Anthony Iles had joined <em>Mute</em> as editors in 2004, and staffed the ghost ship <em>Mute</em> during this time, researching a cheap new form of printing called ‘print on demand’ (POD). This method – essentially a glorified laser print-out, prettified by the addition of full colour, perfect bound covers – allows one to print as few or as many copies as desired; you only have to pay for the number you need. This could not be more different from the newsprint process we had originally used, in which the minimum number of copies you could print was 10,000. With the show back on the road by mid 2005, our new model was to prioritise the website, publish weekly articles, solicit people to self-publish in the News and Analysis and Public Library sections, make our entire back catalogue freely available, and republish the best of each quarter’s crop of articles in POD form for an affordable £5.</p>
+
+					<p>In commercial terms, this was a risky approach since it removed any clear incentive for people to buy the print version by giving it all up for free on the web. As an Arts Council-funded magazine, however, part of our costs was covered and the wish to participate in international debates and free intellectual exchange outweighed any commercial advantage to creating a pay-per-view website. The readership results were dramatic, with Metamute.org averaging around 25,000 page views per day – although admittedly sales of the print version did nosedive for a while.</p>
+
+					<p>It is tempting to try and draw some analogy between our very noughties publishing model and the increased importance of the ‘virtual’ financial services sector to global capitalism, in the throes of its meltdown at the time of writing. The difference, of course, is that, with the shift from material commodities to the trade in intangibles orchestrated by the proliferation of new ‘financial instruments’, the city temporarily managed to make loads of money from producing nothing. <em>Mute</em>, on the other hand, belongs to the legions producing largely unremunerated content for the web. This condition some understand as ‘digital commoning’ – a way of collectively maintaining the resources which help the precarious intellectual worker to subsist within neoliberal globalisation as living conditions, wages and job security degenerate. This notion of free production, however, belongs to the phantasm of the ‘weightless economy’ in which money supposedly begets money and the cognitariat produce intellectual goods for nothing – a concept that came under fierce attack in Steve Wright’s article ‘Reality Check: Are We Living in an Immaterial World?’ (Vol 2 #1). Quoting Ursula Huws, he writes:</p>
+
+					<p>Huws draws our attention back not only to the massive infrastructure that underpins ‘the knowledge economy’, but also to ‘the fact that real people with real bodies have contributed real time to the development of these “weightless” commodities.’ As for determining the contribution of human labour within the production of immaterial products, Huws argues, that, while this might ‘be difficult to model’, that ‘does not render the task impossible’.</p>
+
+					<p>These ‘real people’, Wright concludes, are largely the ‘soil tilling’ majority of the Earth. The real commoner, it turns out, is capitalism whose non-reproduction of the natural resources and unpaid labour it loots is creating a tragedy of mounting proportions. As for those ‘digital commoners’, they are far from having transcended exchange value and returned to a pure reliance upon use values. Those commodities they continue to consume, and which sustain them in their immaterial production, are mostly produced by one hyper-exploited half of the Earth’s population. It goes without saying that <em>Mute’s</em> editors and writers belong to the lucky other half.</p>
+
+					<p>As the analyses of immaterial production, financialisation and ‘fictitious capital’ intensified after 2005 – due in no small part to the editorial input of Ben and contributing editor, Matthew Hyland – the focus on digital culture and art dilated somewhat. Perhaps, with the hindsight of a ‘once in a century’ financial crisis, it is hardly surprising that ‘fictitious capital’ developed such a hypnotic hold on our attention. In September 2007, we brought out possibly the best timed issue of <em>Mute</em>’s entire career. The ‘Living in a Bubble: Credit, Debt and Crisis’ issue, which we’d been preparing over the Summer, intersected ‘perfectly’ with the US sub-prime crash’s escalation into a full-blown credit crunch and the nationalisation of Northern Rock, the first in a long line of public bailouts it would later transpire.</p>
+
+					<p>But, despite the shift in focus, the parallels between the relational developments of art and virtual economic activity remain stark. Paul Helliwell contributed several lengthy articles on this subject, casting avant-garde art and, more latterly, ‘relational aesthetics’ as the vanguard of cultural commodification in its immaterial phase. Due to the commodity’s demise at the hands of digital abundance, he argues, the music industry in particular, and capitalism in general, are coming increasingly to resemble relational art. For several generations, artists have critiqued and abandoned the object; after the institutional critique of the 1960s–80s, droves of artists began to abandon the ‘white cube’ for the real world beyond, looking to ‘heal’ wounded social relations by operating on them directly. Thus was born ‘relational aesthetics’ as Nicholas Bourriaud termed it. Whether feeding the gallery visitor noodles or creating archives of collectively produced histories in the midst of regeneration zones, the artist became ever less the detached observer and producer of objects, and ever more the provider of social and cultural services. </p>
+
+					<p><em>Mute’s</em> coverage of this cultural turn focused on how this once self-critical tendency became complicit with the forces of regeneration and social engineering. The London Particular’s image/text analysis, ‘Fear Death by Water’, and Anthony Davies’ article, ‘Take Me I’m Yours’, were key to this exploration. Both revealed a toxic mix of cuts in public spending and welfare, privatisation of the public sphere and the strategic deployment of culture to neutralise any resistance. This marriage of convenience between cultural producers and the neoliberal state results, they argue, in the consultative nature of community arts projects which do nothing to prevent already-decided-upon regeneration schemes, or the politically progressive programmes of institutions which nevertheless underpay their unskilled staff. This instrumentalised culture – which appears to be isomorphic with market deregulation and privatisation – is often the sad result of art’s critical dematerialisation. As with the ‘weightless economy’, art’s dematerialisation into a network of communication and relationality coincides with increased material hardship at the other end of the productive chain.</p>
+
+					<p>It seems that we’ve arrived back where we began, at the switch point between the liberating and repressive tendencies of dematerialisation. It is partly due to the overlapping concerns of these lines of enquiry that it took us over five years to assemble this book. Untangling the separate themes which now organise such a fat manual to the past 15 years of cultural politics took some doing. Art historian and <em>Mute</em> contributor, Michael Corris, gave us a great deal of help with this, moving our thinking on from the initial plan to make a book about the relationship between conceptualism and network-based art practice to a multi-themed anthology of some of our best articles. Reading over the book in its final form, I find it striking that a magazine which has continually contended with the question ‘but what’s it about?’ has, in fact, produced such a sustained and persistent analysis. The technologically driven dematerialisation of culture, economics, social activity and control must always contend with the material world of needs, production, embodiment and desires which sustain and are sustained by these processes. We are now, as ever, and for <em>infinitely</em> varied reasons, Proud to be Flesh!</p>
+
+				</lhsColumn>
+				</chapter>
+
+			<chapter chapterNumber="4">
+				<chapterTitle><h3>Section 2</h3></chapterTitle>
+				<shortChapterTitle><h3>Section 2</h3></shortChapterTitle>
+
+				<mediaItem>
+					<mediaData>
+						<iframe src="images/tiles/0001/openlayers.html" frameborder="0"></iframe>
+						<p class="caption">Cover image</p>
+					</mediaData>
+					<mediaMetadata status="true">metadata-html/0001.html</mediaMetadata>
+				</mediaItem>
+
+				<lhsColumn>
+					<p class="active">Text</p>
+				</lhsColumn>
+					</chapter>
+
+					<chapter chapterNumber="5">
+						<chapterTitle><h3>Section 3</h3></chapterTitle>
+						<shortChapterTitle><h3>Section 3</h3></shortChapterTitle>
+
+						<mediaItem>
+							<mediaData>
+								<iframe src="images/tiles/0001/openlayers.html" frameborder="0"></iframe>
+								<p class="caption">Cover image</p>
+							</mediaData>
+							<mediaMetadata status="true">metadata-html/0001.html</mediaMetadata>
+						</mediaItem>
+
+						<lhsColumn>
+							<p class="active">Text</p>
+						</lhsColumn>
+							</chapter>
+
+							<chapter chapterNumber="6">
+								<chapterTitle><h3>Section 4</h3></chapterTitle>
+								<shortChapterTitle><h3>Section 4</h3></shortChapterTitle>
+
+								<mediaItem>
+									<mediaData>
+										<iframe src="images/tiles/0001/openlayers.html" frameborder="0"></iframe>
+										<p class="caption">Cover image</p>
+									</mediaData>
+									<mediaMetadata status="true">metadata-html/0001.html</mediaMetadata>
+								</mediaItem>
+
+								<lhsColumn>
+									<p class="active">Text</p>
+								</lhsColumn>
+									</chapter>
+
+			<!-- ILLUSTRATIONS LIST -->
+			<chapter chapterNumber="7">
+				<chapterTitle><h3>Figures</h3></chapterTitle>
+				<shortChapterTitle><h3>Figures</h3></shortChapterTitle>
+
+				<mediaItem>
+					<mediaData>
+						<iframe src="images/tiles/0001/openlayers.html" frameborder="0"></iframe>
+						<p class="caption">Cover image</p>
+					</mediaData>
+					<mediaMetadata status="true">metadata-html/0001.html</mediaMetadata>
+				</mediaItem>
+
+				<lhsColumn>
+					<h3>List of Illustrations</h3>
+
+					<div class="figure-details-wrapper">
+						<p class="figure-image"><img src="images/Proud_to_be_Flesh_cover.jpg" class="thumbnail"></img></p>
+						<p class="figure-text"><span class="update-lhs-link" data-lhs-link-id="1"><b>Fig. 1</b></span> <a href="index.html?c=1&amp;p=1">c1p1</a>, Description - this should come from the caption and not be typed in again.</p>
+					</div>
+
+				</lhsColumn>
+			</chapter>
+
+			<!-- REFERENCES LIST -->
+			<chapter chapterNumber="8">
+				<chapterTitle><h3>List of References</h3></chapterTitle>
+				<shortChapterTitle><h3>References</h3></shortChapterTitle>
+
+				<mediaItem>
+					<mediaData>
+						<iframe src="images/tiles/0001/openlayers.html" frameborder="0"></iframe>
+						<p class="caption">Cover image</p>
+					</mediaData>
+					<mediaMetadata status="true">metadata-html/0001.html</mediaMetadata>
+				</mediaItem>
+
+				<lhsColumn>
+					<h3>List of References</h3>
+
+				<p>
+					i. <a href="index.html?c=3&amp;p=1">c3p1</a>, citation in CMS. This should really be pulling from the ref list.
+				</p>
+
+				</lhsColumn>
+			</chapter>
+
+			<!-- INFO-->
+			<chapter chapterNumber="9">
+				<chapterTitle><h3>Colophon</h3></chapterTitle>
+				<shortChapterTitle><h3>Colophon</h3></shortChapterTitle>
+
+				<mediaItem>
+					<mediaData>
+						<iframe src="images/tiles/0001/openlayers.html" frameborder="0"></iframe>
+						<p class="caption">Cover image</p>
+					</mediaData>
+					<mediaMetadata status="true">metadata-html/0001.html</mediaMetadata>
+				</mediaItem>
+
+				<lhsColumn>
+					<h3>Info</h3>
+					<p><b>Title:</b> PTBF</p>
+					<p><b>Authors:</b> Name</p>
+					<p><b>ORCHID(s):</b> http://orcid.org/</p>
+					<p><b>Author correspondence:</b> email@mail.com</p>
+					<p><b>Date:</b> 2016</p>
+					<p><b>Cite as:</b> Text</p>
+					<p><b>Abstract:</b> Text
+					</p>
+					<p><b>Unique ID:</b> DOI</p>
+					<p><b>Copyright:</b> The authors and copyright holders</p>
+					<p><b>Institutional affiliations:</b> Text</p>
+					<p><b>Funders:</b> Text</p>
+					<p><b>Acknowledgements:</b> Made using the free and open source software Hybrid Player (pre-release)  https://github.com/consortium/hybrid_player</p>
+					<p><b>Location:</b> Berlin</p>
+					<p><b>Publication type (scholarly):</b> essay</p>
+					<p><b>Publication media type:</b> digital Hybrid Player WebApp</p>
+				</lhsColumn>
+			</chapter>
+	</body>
+</collection>
