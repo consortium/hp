@@ -5,33 +5,37 @@
 	    <title>Archive Collection XML Structure</title>
 	</head>
 	<body>
-			<collectionTitle>Proud to be Flesh</collectionTitle>
+			<collectionTitle>Disgruntled Addicts – Mute Magazine and its History</collectionTitle>
 
 			<!-- TITLE PAGE AND ABSTRACT -->
 
 			<chapter chapterNumber="1">
-				<chapterTitle><h3>Title Page/Intro</h3></chapterTitle>
-				<shortChapterTitle><h3>Title Page</h3></shortChapterTitle>
+				<chapterTitle><h3>The Mute Anthology</h3></chapterTitle>
+				<shortChapterTitle><h3>Mute Anthology</h3></shortChapterTitle>
 
 				<mediaItem>
 					<mediaData>
 						<iframe src="images/tiles/0001/openlayers.html" frameborder="0"></iframe>
-						<p class="caption">Cover image</p>
+						<p class="caption">Proud to be Flesh cover image</p>
 					</mediaData>
 					<mediaMetadata status="true">metadata-html/0001.html</mediaMetadata>
 				</mediaItem>
 
 				<lhsColumn>
-					<h3>H3 Header</h3>
-					<p>Text, <a href="https://metamute.org/" target="_blank">Mute</a>.</p>
-					<p>Para 2.</p>
-					<p>
-					<i>Para italic</i>
-				</p>
-				<p>
-					<img src="images/Mute_sml.jpg" style="width:180px;"></img>
-					</p>
+					<h3>Proud to be Flesh: A Mute Magazine Anthology of Cultural Politics after the Net</h3>
+					<p>The introductory essay 'Disgruntled Addicts – Mute Magazine and its History' is from the 2009 <a href="https://metamute.org/" target="_blank">Mute</a> anthology. The anthology is a 624 page themed collection of 15 years of Mute publihsing, from 1994 to 2009.</p>
+					<p><a href="#" class="toc" data-chapter-id="5">Proud to be Flesh</a> details.</p>
+					<p>Buy the print version or download the PDF for <a href="https://github.com/Mute-Publishing/Proud-to-be-Flesh" target="_blank">free</a>.</p>
+					<p>Buy button from Shopify. Commented out in XML as doesn't validate, I suspect I just need to make it a simple html set and link to shopify.
+<!--
+						<div data-embed_type="product" data-shop="mute-publishing.myshopify.com" data-product_name="Proud to be Flesh" data-product_handle="proud-to-be-flesh" data-has_image="true" data-display_size="compact" data-redirect_to="checkout" data-buy_button_text="Buy now" data-buy_button_out_of_stock_text="Out of Stock" data-buy_button_product_unavailable_text="Unavailable" data-button_background_color="7db461" data-button_text_color="ffffff" data-product_modal="false" data-product_title_color="000000" data-next_page_button_text="Next page"></div>
+<script type="text/javascript">
+document.getElementById('ShopifyEmbedScript') || document.write('<script type="text/javascript" src="https://widgets.shopifyapps.com/assets/widgets/embed/client.js" id="ShopifyEmbedScript"><\/script>');
+</script>
+<noscript><a href="https://mute-publishing.myshopify.com/cart/22081544775:1" target="_blank">Buy Proud to be Flesh</a></noscript> -->
 
+</p>
+					<p><img src="images/Mute_sml.jpg" style="width:180px;"></img></p>
 				</lhsColumn>
 			</chapter>
 
@@ -50,25 +54,46 @@
 
 				<lhsColumn >
 						<!-- <h3>Table of Contents</h3> -->
-					<p><a href="#" class="toc" data-chapter-id="1">Title Page/Intro</a></p>
+					<p><a href="#" class="toc" data-chapter-id="1">Mute Anthology</a></p>
 
-					<p><a href="#" class="toc" data-chapter-id="3">Section 1</a></p>
+					<p><a href="#" class="toc" data-chapter-id="3">Introduction</a></p>
 
-					<p><a href="#" class="toc" data-chapter-id="4">Section 2</a></p>
+					<p><a href="#" class="toc" data-chapter-id="4">Disgruntled Addicts</a></p>
 
-					<p><a href="#" class="toc" data-chapter-id="5">Section 3</a></p>
+					<p><a href="#" class="toc" data-chapter-id="5">Proud to be Flesh</a></p>
 
-					<p><a href="#" class="toc" data-chapter-id="6">Section 4</a></p>
+					<p><a href="#" class="toc" data-chapter-id="6">Figures</a></p>
 
-					<p><a href="#" class="toc" data-chapter-id="7">Figures</a></p>
+					<p><a href="#" class="toc" data-chapter-id="7">References</a></p>
 
-					<p><a href="#" class="toc" data-chapter-id="8">References</a></p>
-
-					<p><a href="#" class="toc" data-chapter-id="9">Colophon</a></p>
+					<p><a href="#" class="toc" data-chapter-id="8">Colophon</a></p>
 				</lhsColumn>
 				</chapter>
 
-			<chapter chapterNumber="3">
+				<!-- TITLE PAGE AND ABSTRACT -->
+
+				<chapter chapterNumber="3">
+					<chapterTitle><h3>Section 1</h3></chapterTitle>
+					<shortChapterTitle><h3>Section 1</h3></shortChapterTitle>
+
+					<mediaItem>
+						<mediaData>
+							<iframe src="images/tiles/0001/openlayers.html" frameborder="0"></iframe>
+							<p class="caption">Cover image</p>
+						</mediaData>
+						<mediaMetadata status="true">metadata-html/0001.html</mediaMetadata>
+					</mediaItem>
+
+					<lhsColumn>
+						<h3>H3 Header</h3>
+						<p>Text, <a href="https://metamute.org/" target="_blank">Mute</a>.</p>
+						<p>Para 2.</p>
+						<p><i>Para italic</i></p>
+						<p><img src="images/Mute_sml.jpg" style="width:180px;"></img></p>
+					</lhsColumn>
+				</chapter>
+
+			<chapter chapterNumber="4">
 				<chapterTitle><h3>Disgruntled Addicts – Mute Magazine and its History</h3></chapterTitle>
 				<shortChapterTitle><h3>Disgruntled Addicts</h3></shortChapterTitle>
 
@@ -138,9 +163,9 @@
 				</lhsColumn>
 				</chapter>
 
-			<chapter chapterNumber="4">
-				<chapterTitle><h3>Section 2</h3></chapterTitle>
-				<shortChapterTitle><h3>Section 2</h3></shortChapterTitle>
+			<chapter chapterNumber="5">
+				<chapterTitle><h3>Section 3</h3></chapterTitle>
+				<shortChapterTitle><h3>Section 3</h3></shortChapterTitle>
 
 				<mediaItem>
 					<mediaData>
@@ -155,8 +180,8 @@
 				</lhsColumn>
 					</chapter>
 
-					<chapter chapterNumber="5">
-						<chapterTitle><h3>Section 3</h3></chapterTitle>
+					<chapter chapterNumber="6">
+						<chapterTitle><h3>Section 4</h3></chapterTitle>
 						<shortChapterTitle><h3>Section 3</h3></shortChapterTitle>
 
 						<mediaItem>
@@ -172,8 +197,8 @@
 						</lhsColumn>
 							</chapter>
 
-							<chapter chapterNumber="6">
-								<chapterTitle><h3>Section 4</h3></chapterTitle>
+							<chapter chapterNumber="7">
+								<chapterTitle><h3>Section 5</h3></chapterTitle>
 								<shortChapterTitle><h3>Section 4</h3></shortChapterTitle>
 
 								<mediaItem>
@@ -190,7 +215,7 @@
 									</chapter>
 
 			<!-- ILLUSTRATIONS LIST -->
-			<chapter chapterNumber="7">
+			<chapter chapterNumber="8">
 				<chapterTitle><h3>Figures</h3></chapterTitle>
 				<shortChapterTitle><h3>Figures</h3></shortChapterTitle>
 
@@ -214,7 +239,7 @@
 			</chapter>
 
 			<!-- REFERENCES LIST -->
-			<chapter chapterNumber="8">
+			<chapter chapterNumber="9">
 				<chapterTitle><h3>List of References</h3></chapterTitle>
 				<shortChapterTitle><h3>References</h3></shortChapterTitle>
 
@@ -237,7 +262,7 @@
 			</chapter>
 
 			<!-- INFO-->
-			<chapter chapterNumber="9">
+			<chapter chapterNumber="10">
 				<chapterTitle><h3>Colophon</h3></chapterTitle>
 				<shortChapterTitle><h3>Colophon</h3></shortChapterTitle>
 
