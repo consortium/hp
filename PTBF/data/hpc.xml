@@ -5,36 +5,26 @@
 	    <title>Archive Collection XML Structure</title>
 	</head>
 	<body>
-			<collectionTitle>Disgruntled Addicts – Mute Magazine and its History</collectionTitle>
+			<collectionTitle>Introduction to the Mute Anthology</collectionTitle>
 
 			<!-- TITLE PAGE AND ABSTRACT -->
 
 			<chapter chapterNumber="1">
-				<chapterTitle><h3>The Mute Anthology</h3></chapterTitle>
-				<shortChapterTitle><h3>Mute Anthology</h3></shortChapterTitle>
+				<chapterTitle><h3>About</h3></chapterTitle>
+				<shortChapterTitle><h3>About</h3></shortChapterTitle>
 
 				<mediaItem>
 					<mediaData>
 						<iframe src="images/tiles/0001/openlayers.html" frameborder="0"></iframe>
-						<p class="caption">Proud to be Flesh cover image</p>
+						<p class="caption">Proud to be Flesh (book cover image), Tallboy of Happy Retouching, 2009.</p>
 					</mediaData>
 					<mediaMetadata status="true">metadata-html/0001.html</mediaMetadata>
 				</mediaItem>
 
 				<lhsColumn>
 					<h3>Proud to be Flesh: A Mute Magazine Anthology of Cultural Politics after the Net</h3>
-					<p>The introductory essay 'Disgruntled Addicts – Mute Magazine and its History' is from the 2009 <a href="https://metamute.org/" target="_blank">Mute</a> anthology. The anthology is a 624 page themed collection of 15 years of Mute publihsing, from 1994 to 2009.</p>
-					<p><a href="#" class="toc" data-chapter-id="5">Proud to be Flesh</a> details.</p>
-					<p>Buy the print version or download the PDF for <a href="https://github.com/Mute-Publishing/Proud-to-be-Flesh" target="_blank">free</a>.</p>
-					<p>Buy button from Shopify. Commented out in XML as doesn't validate, I suspect I just need to make it a simple html set and link to shopify.
-<!--
-						<div data-embed_type="product" data-shop="mute-publishing.myshopify.com" data-product_name="Proud to be Flesh" data-product_handle="proud-to-be-flesh" data-has_image="true" data-display_size="compact" data-redirect_to="checkout" data-buy_button_text="Buy now" data-buy_button_out_of_stock_text="Out of Stock" data-buy_button_product_unavailable_text="Unavailable" data-button_background_color="7db461" data-button_text_color="ffffff" data-product_modal="false" data-product_title_color="000000" data-next_page_button_text="Next page"></div>
-<script type="text/javascript">
-document.getElementById('ShopifyEmbedScript') || document.write('<script type="text/javascript" src="https://widgets.shopifyapps.com/assets/widgets/embed/client.js" id="ShopifyEmbedScript"><\/script>');
-</script>
-<noscript><a href="https://mute-publishing.myshopify.com/cart/22081544775:1" target="_blank">Buy Proud to be Flesh</a></noscript> -->
-
-</p>
+					<p>The anthology is a 624 page book containing a themed collection of 15 years of Mute publihsing, from 1994 to 2009. The book was published in 2009 and can be downloaded or purchased from <a href="#" class="toc" data-chapter-id="5">the book</a> section</p>
+					<p>The book's <a href="#" class="toc" data-chapter-id="3">foreword</a> and introductory essay '<a href="#" class="toc" data-chapter-id="4">Disgruntled Addicts – Mute Magazine and its History</a>' have been reproduced in this Hybrid Player WebApp.</p>
 					<p><img src="images/Mute_sml.jpg" style="width:180px;"></img></p>
 				</lhsColumn>
 			</chapter>
@@ -54,15 +44,15 @@ document.getElementById('ShopifyEmbedScript') || document.write('<script type="t
 
 				<lhsColumn >
 						<!-- <h3>Table of Contents</h3> -->
-					<p><a href="#" class="toc" data-chapter-id="1">Mute Anthology</a></p>
+					<p><a href="#" class="toc" data-chapter-id="1">About</a></p>
 
-					<p><a href="#" class="toc" data-chapter-id="3">Introduction</a></p>
+					<p><a href="#" class="toc" data-chapter-id="3">Foreword</a></p>
 
 					<p><a href="#" class="toc" data-chapter-id="4">Disgruntled Addicts</a></p>
 
-					<p><a href="#" class="toc" data-chapter-id="5">Proud to be Flesh</a></p>
+					<p><a href="#" class="toc" data-chapter-id="5">The Book</a></p>
 
-					<p><a href="#" class="toc" data-chapter-id="6">Figures</a></p>
+					<p><a href="#" class="toc" data-chapter-id="6">List of Illustrations</a></p>
 
 					<p><a href="#" class="toc" data-chapter-id="7">References</a></p>
 
@@ -73,8 +63,8 @@ document.getElementById('ShopifyEmbedScript') || document.write('<script type="t
 				<!-- TITLE PAGE AND ABSTRACT -->
 
 				<chapter chapterNumber="3">
-					<chapterTitle><h3>Section 1</h3></chapterTitle>
-					<shortChapterTitle><h3>Section 1</h3></shortChapterTitle>
+					<chapterTitle><h3>Foreword</h3></chapterTitle>
+					<shortChapterTitle><h3>Foreword</h3></shortChapterTitle>
 
 					<mediaItem>
 						<mediaData>
@@ -85,11 +75,32 @@ document.getElementById('ShopifyEmbedScript') || document.write('<script type="t
 					</mediaItem>
 
 					<lhsColumn>
-						<h3>H3 Header</h3>
-						<p>Text, <a href="https://metamute.org/" target="_blank">Mute</a>.</p>
-						<p>Para 2.</p>
-						<p><i>Para italic</i></p>
-						<p><img src="images/Mute_sml.jpg" style="width:180px;"></img></p>
+						<h3>Foreword</h3>
+
+<p>by Pauline van Mourik Broekman and Simon Worthington</p>
+
+<p>The distillation of 15 years of <em>Mute</em> magazine content into one book has been a mammoth task, requiring what sometimes felt like a lifetime’s worth of re-reading, re-evaluating and searching for consensus, as we pulled apart our print and web archives and put them together again in a variety of constellations. When this process started, in 2002, we were working towards a very different anthology – provisionally titled <em>White Cube, Blue Sky</em> – which covered the relationship between net art and conceptual art (a subject receiving scant analysis back then and, we felt, pregnant with potential <em>vis à vis </em>the dearth of critically historicised readings of digital art and culture on offer). That particular compilation sadly fell victim to the resource-hogging juggernaut that is day-to-day magazine production, but its legacy is woven deep into this volume and remains most evident in the chapter entitled ‘From Net Art to Conceptual Art and Back’. This present incarnation of the anthology is indebted to Michael Corris who, acting as co-editor to Simon Ford, Josephine Berry Slater and Pauline on that earlier project, lent both historical insight and the all-important spur for us to re-orientate the book into a reflection of the magazine itself.</p>
+
+<p><em>Proud to be Flesh </em>is not a ‘Best of <em>Mute’</em>. Rather, it treats the entire back catalogue of <em>Mute</em> as its critical arena, exploring how the voices and ideas to which the magazine has played host crystallised into a set of distinct themes through which ‘culture and politics after the net’ (the magazine’s strapline since 2002) might be understood. Crudely put, this rounded on the utopian claims made for digital technologies in general and the internet in particular, subjecting them to a deepening critique, which ever more explicitly considered the socio-economic context created by capitalism. A typical example is the promise of democratic empowerment, via engagement with new media, which reverberated across a continuum from art to politics (discussed here in the chapters ‘Democracy and its Demons’ and ‘The Open Work’). Similarly, the emancipatory figures of the cyborg and, later, the immaterial labourer were said to augur a break in historical time with far-reaching consequences or gender, creativity and work – claims which are dealt with in ‘I, Cyborg’ and ‘Reality Check: Class and Immaterial Labour’. Concepts which emerged when internet discourse had ‘matured’, but which nonetheless accrued near sacred status as instances of a kind of public good – such as the information commons and, extending into the realm of social movements, horizontal organisation and openness – are tackled in the chapters ‘Of Commoners and Criminals’ and ‘Organising Horizontally’. </p>
+
+<p>All of these themes will be more or less familiar from broader discourses on digital culture. Less immediately obvious are those topics that might be attributed to <em>Mute’s </em>location in London, the global heart of the financial services sector and the ‘creative economy’, a frontier space for the aggressive pioneering of neoliberal policies, from the nation state’s management of the arts to urban development and social cohesion. This necessitated an analysis of the civic assault suffered under the aegis of ‘regeneration’ and the antinomies of multiculturalism, and of artists’ insinuation into business agendas (detailed in ‘Under the Net: The City and the Camp’ and ‘Assuming the Position: Art and/Against Business’ respectively). </p>
+
+<p>By arranging the content of each chapter chronologically, we hope to convey the sense of an evolving conversation and the structural effect certain texts and authors had on the magazine’s editorial (which explains some multiple appearances). And, while chapters tend to possess a germ, or concentration point, in particular periods, they also span our publication history, demonstrating the lasting import of their core questions and generating interesting parallels between ‘early’ and ‘late’ <em>Mute</em>, not all of which were conscious.</p>
+
+<p>Looking back at some of the moments that defined production – at the back-end, as it were – the magazine’s history can quite easily be made to fit a certain clichéd image of a ’90s creative project. From the negotiations we conducted with the pre-print department at Pearson media group – to use the <em>Financial Times</em>’ purpose-built plant in Docklands on a test run – to the graft we put into cleaning an old, urine-soaked telephone exchange for the magazine’s launch party and the manner in which we subsidised our publishing activities with a mixture of commercial work and government aid, <em>Mute</em> looks every inch the do-it-yourself entrepreneurial venture valorised in creative economy doctrine.</p>
+
+<p>And, in many respects, it has been; aside from running as an actual business (rather than a volunteer collective, for example), the magazine’s foundational connection to the subjects of art and technology situated our work at the same nexus the British state sought to occupy as it amorously embraced the model of an ‘immaterial’ economy driven by creativity, knowledge and networks. Gradually moving eastwards from Shoreditch to Brick Lane and then Whitechapel (all of which saw local communities outpriced and displaced by a rapidly expanding ‘new’ economy hungry for office, retail and leisure space), even the <em>Mute</em> office resided at the juncture between the digital economy’s public façade and its underside – now dramatically visible as the global economy succumbs under the weight of its own contradictions.</p>
+
+<p>Acknowledgements? It is hard to know where to begin… <em>Mute </em>has taken many forms, often in the name of professionalisation, but we have spectacularly failed to terminate the intimate connection between life and work. Loves have been found and lost, passions ignited, children born, and partners and parents have stepped into the breach. To attain even the smallest degree of veracity for this story, the definitive influence of the people involved must be foregrounded. From early editors, like Suhail Malik, James Flint and Jamie King (or even before them, Tina Spear, Daniel Jackson and Paul Miller), to what must be the longest-running editorial team of the magazine’s life (Hari Kunzru – with us pretty much since the beginning – plus Matthew Hyland, Demetra Kotouza, Benedict Seymour, Anthony Iles and Josephine Berry Slater, the latter three responsible for unstinting efforts in arguing the toss over the inclusions and exclusions of this book), to long-time designers Damian Jaques and Laura Oldenbourg, sales manager Lois Olmstead, and the countless individuals who either pitched to us or responded positively to pitches from us; it is these people’s ideas and collective modus operandi that have functioned as the engine of development. </p>
+
+<p><em>Mute</em> has run treatises on the plight of student interns in its pages, but we are not above accepting their generosity and Proud to be Flesh has enjoyed significant contributions from Hilary Crowe, Stefano di Cecco, Lars Dittmer, Paul Graham, Kate Guarente, Caroline Heron, Charlotte Levins, Hannah Marshall, Olga Panades, Joanne Roberts and Erin Welke in everything from archive mining to proofing.</p>
+
+<p>To say this book has had a chequered history is an understatement: it has travelled from pillar to post, falling foul of mergers and acquisitions, new editorial directions and mysterious silences. Support was shown by Arts Council England and the British Academy, both of whom subsidised the anthology early on and who have proven among the most patient of funders. The last two years of gestation have seen Autonomedia show equal perserverance, and faith, in helping us keep the end in sight.</p>
+
+<p>On the home straight, with <em>Mute’s</em> editorial contingent intensely pre-occupied (Pauline giving birth to baby Violet and Josie working flat out on the magazine), Rebecca Gordon-Nesbitt granted this book the final bout of intensive care, attention to detail and good judgement it needed, aided and abetted by Kyle McCallum. Long-time contributor, John Barker, also offered us the unanticipated luxury of an index. We’re eternally grateful for their last-minute agreements to participate. To have designers as perspicacious and text-obsessed as Sarah Newitt and Fraser Muggeridge to translate all this work into one coherent package has been the icing on the cake.</p>
+
+<p>Finally, thanks to the ‘constructively’ critical but always serious family members who have followed – and supported – <em>Mute’s</em> winding path: Ernest, Kiddy, Ciska, Ritzo, Pam, Howard W., Raquel, Howard S. and Anthony. We know where you live.</p>
+
 					</lhsColumn>
 				</chapter>
 
@@ -108,7 +119,7 @@ document.getElementById('ShopifyEmbedScript') || document.write('<script type="t
 				<lhsColumn>
 					<p>Disgruntled Addicts – Mute Magazine and its History</p>
 
-					<p>Josephine Berry Slater</p>
+					<p>by Josephine Berry Slater</p>
 
 					<p class="active"><em>Mute</em> magazine was born, somewhere between art school anomie and the thrill of the World Wide Web’s appearance, in 1994. Looking back at the magazine’s history on its 15th birthday, its most constant feature seems to be its wilful eclecticism and ceaseless criticality – something which, over the years, has got it into all kinds of trouble commercially, politically and with its varied readership. This concerted battle against the dominant logic of specialisation or static identity is perhaps the trace element of its founders’ art school backgrounds at the Slade and Central Saint Martins.</p>
 
@@ -164,8 +175,8 @@ document.getElementById('ShopifyEmbedScript') || document.write('<script type="t
 				</chapter>
 
 			<chapter chapterNumber="5">
-				<chapterTitle><h3>Section 3</h3></chapterTitle>
-				<shortChapterTitle><h3>Section 3</h3></shortChapterTitle>
+				<chapterTitle><h3>The Book</h3></chapterTitle>
+				<shortChapterTitle><h3>The Book</h3></shortChapterTitle>
 
 				<mediaItem>
 					<mediaData>
@@ -180,44 +191,10 @@ document.getElementById('ShopifyEmbedScript') || document.write('<script type="t
 				</lhsColumn>
 					</chapter>
 
-					<chapter chapterNumber="6">
-						<chapterTitle><h3>Section 4</h3></chapterTitle>
-						<shortChapterTitle><h3>Section 3</h3></shortChapterTitle>
-
-						<mediaItem>
-							<mediaData>
-								<iframe src="images/tiles/0001/openlayers.html" frameborder="0"></iframe>
-								<p class="caption">Cover image</p>
-							</mediaData>
-							<mediaMetadata status="true">metadata-html/0001.html</mediaMetadata>
-						</mediaItem>
-
-						<lhsColumn>
-							<p class="active">Text</p>
-						</lhsColumn>
-							</chapter>
-
-							<chapter chapterNumber="7">
-								<chapterTitle><h3>Section 5</h3></chapterTitle>
-								<shortChapterTitle><h3>Section 4</h3></shortChapterTitle>
-
-								<mediaItem>
-									<mediaData>
-										<iframe src="images/tiles/0001/openlayers.html" frameborder="0"></iframe>
-										<p class="caption">Cover image</p>
-									</mediaData>
-									<mediaMetadata status="true">metadata-html/0001.html</mediaMetadata>
-								</mediaItem>
-
-								<lhsColumn>
-									<p class="active">Text</p>
-								</lhsColumn>
-									</chapter>
-
 			<!-- ILLUSTRATIONS LIST -->
-			<chapter chapterNumber="8">
-				<chapterTitle><h3>Figures</h3></chapterTitle>
-				<shortChapterTitle><h3>Figures</h3></shortChapterTitle>
+			<chapter chapterNumber="6">
+				<chapterTitle><h3>List of Illustrations</h3></chapterTitle>
+				<shortChapterTitle><h3>Illustrations</h3></shortChapterTitle>
 
 				<mediaItem>
 					<mediaData>
@@ -239,7 +216,7 @@ document.getElementById('ShopifyEmbedScript') || document.write('<script type="t
 			</chapter>
 
 			<!-- REFERENCES LIST -->
-			<chapter chapterNumber="9">
+			<chapter chapterNumber="7">
 				<chapterTitle><h3>List of References</h3></chapterTitle>
 				<shortChapterTitle><h3>References</h3></shortChapterTitle>
 
@@ -262,7 +239,7 @@ document.getElementById('ShopifyEmbedScript') || document.write('<script type="t
 			</chapter>
 
 			<!-- INFO-->
-			<chapter chapterNumber="10">
+			<chapter chapterNumber="8">
 				<chapterTitle><h3>Colophon</h3></chapterTitle>
 				<shortChapterTitle><h3>Colophon</h3></shortChapterTitle>
 
