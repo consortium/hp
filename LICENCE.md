@@ -15,3 +15,5 @@ Design and Documentation Creative Commons Attribution-ShareAlike 3.0 Germany (CC
 Book content is anti-copyright Mute Publishing, the authors and artists’. However, Mute encourages the use of its contents for purposes that are non-commercial, critical or disruptive of capitalist property relations. Please make sure you credit the author/artist and Mute as the original publishers. This legend is devised in the absence of a licence which adequately represents the contributors, editors and publishers’ respective position on copyright, and to acknowledge but deny the copyrighting performed by default where copyright is waived. Please email servives@metamute.org with any details of republication. Canonical URL: http://www.metamute.org/content/proud-to-be-flesh 
 
 All software dependencies are copyright to their respective owners. All fonts are copyright to their respective owners.
+
+Hybrid Publishing Group is operated by InfoMesh Technologies UG. Hybrid Publishing Group is a partnership between InfoMesh Technologies UG (DE), Skyscraper Digital Publishing Limited (UK) and Avco Limited (UK). Offices: Berlin | London | Ottawa
