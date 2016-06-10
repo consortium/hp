@@ -23,10 +23,19 @@
 
 				<lhsColumn>
 					<h3>Proud to be Flesh: A Mute Magazine Anthology of Cultural Politics after the Net</h3>
-					<p>The anthology <span class="insert-ref-link closed" data-ref-link-id="1">[Proud to be Flesh]<span class="full-reference"></span></span> is a 624 page book containing a themed collection of 15 years of Mute publishing, from 1994 to 2009. The book was published in 2009 and can be downloaded or purchased from <a href="#" class="toc" data-chapter-id="5">the book</a> section</p>
+					<p>The anthology <span class="insert-ref-link closed" data-ref-link-id="1">[Proud to be Flesh]<span class="full-reference"></span></span> is a 624 page book containing a themed collection of 15 years of Mute publishing, from 1994 to 2009. The book was published in 2009 and can be downloaded for free or purchased from <a href="#" class="toc" data-chapter-id="5">the book</a> section.</p>
 					<p>The book's <a href="#" class="toc" data-chapter-id="3">foreword</a> and introductory essay '<a href="#" class="toc" data-chapter-id="4">Disgruntled Addicts – Mute Magazine and its History</a>' have been reproduced in this Hybrid Player WebApp.</p>
 					<p><img src="images/Mute_sml.jpg" style="width:180px;"></img></p>
 <p>The Hybrid Player is an free and open source framework for producing next-generation publications. Download the code and find out more on <a href="https://github.com/consortium/hp" target="_blank">GitHub</a>.</p>
+<p>Buy print online:</p>
+
+<p>UK - Amazon <a href="http://www.amazon.co.uk/Proud-Flesh-Magazine-Anthology-Cultural/dp/1906496285" target="_blank">£24.99</a></p>
+
+<p>US - Amazon <a href="http://www.amazon.com/Proud-Be-Flesh-Magazine-Anthology/dp/1906496285" target="_blank">$34.99</a></p>
+
+<p>DE - Amazon <a href="http://www.amazon.de/Proud-Be-Flesh-Magazine-Anthology/dp/1906496285" target="_blank">EUR 33,31</a></p>
+
+<p>Paperback ISBN: 978-1-906496-28-9</p>
 				</lhsColumn>
 			</chapter>
 
@@ -336,6 +345,7 @@
 				<p>7. Under the Net – the City and the Camp</p>
 				<p>8. Reality Check: Class and Immaterial Labour</p>
 				<p>9. The Open Work</p></li></ul><h3 class="related">Related</h3><ul><li id="related-2354">Foreword</li><li id="related-2355">Disgruntled Addicts – Mute Magazine and its History</li></ul></ul>
+<h3 class="related">Acknowlegements, Copyright and Licencing</h3>
 <p>Acknowlegements: Daniel Jackson and Avco Limited for HP coding and concept design; Christina Kral research and UI; Simon Worthington project lead.</p>
 
 <p>Hybrid Player copyright Hybrid Publishing Group 2016, the software is licenced as GNU Affero General Public License <a href="http://www.gnu.org/licenses/agpl-3.0.txt" target="_blank">http://www.gnu.org/licenses/agpl-3.0.txt</a></p>
